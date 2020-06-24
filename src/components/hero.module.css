@@ -45,10 +45,3 @@
   font-size: 1.125em;
   font-weight: bold;
 }
-.surrounding {
-  background: '#fff'
-}
-
-.surrounding.dark{
-  background: #232129;
-}

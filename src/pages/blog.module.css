@@ -20,11 +20,3 @@
   font-size: 2em;
   overflow: hidden;
 } */
-
-.surrounding {
-  background: '#fff'
-}
-
-.surrounding.dark{
-  background: #232129;
-}
