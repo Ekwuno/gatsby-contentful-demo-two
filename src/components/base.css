@@ -15,6 +15,17 @@ body {
   margin: 0;
 }
 
+body.dark {
+  -webkit-font-smoothing: antialiased;
+
+  --bg: #232129;
+  --textNormal: rgba(255, 255, 255, 0.86);
+  --textTitle: white;
+  --textLink: yellow;
+  --hr: hsla(0, 0%, 100%, 0.2);
+}
+
+
 img {
   display: block;
   width: 100%;
@@ -35,6 +46,7 @@ a {
   width: calc(100% - 10vmin);
   margin: 0 auto;
   padding: 5vmin 0;
+  /* background: #373F49; */
 }
 
 /**
