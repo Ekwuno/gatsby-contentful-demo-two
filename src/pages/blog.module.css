@@ -1,3 +1,11 @@
+.surrounding {
+  background: '#fff'
+}
+
+.surrounding.dark{
+  background: #232129;
+}
+
 .hero {
   display: flex;
   justify-content: center;
@@ -10,21 +18,4 @@
   overflow: hidden;
 }
 
-/* .hero.dark {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 61.8vh;
-  max-height: 400px;
-  color: #0c0c0c;
-  font-size: 2em;
-  overflow: hidden;
-} */
 
-.surrounding {
-  background: '#fff'
-}
-
-.surrounding.dark{
-  background: #232129;
-}

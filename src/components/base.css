@@ -25,6 +25,13 @@ body.dark {
   --hr: hsla(0, 0%, 100%, 0.2);
 }
 
+.surrounding {
+  background: '#fff'
+}
+
+.surrounding.dark{
+  background: #232129;
+}
 
 img {
   display: block;
