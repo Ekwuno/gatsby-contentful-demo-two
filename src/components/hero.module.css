@@ -1,3 +1,11 @@
+.surrounding {
+  background: '#fff'
+}
+
+.surrounding.dark{
+  background: #232129;
+}
+
 .hero {
   position: relative;
   background: #000;
@@ -44,11 +52,4 @@
   margin: 0;
   font-size: 1.125em;
   font-weight: bold;
-}
-.surrounding {
-  background: '#fff'
-}
-
-.surrounding.dark{
-  background: #232129;
 }
